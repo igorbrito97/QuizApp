@@ -27,7 +27,7 @@ function SignIn() {
   const [password, setPassword] = useState('');
   return (
     <View style={styles.container}>
-      <Text style={styles.titleText}>QUIZ APP</Text>
+      <Text style={styles.titleText}>QUIZ APP!!!!!!!!!!!!</Text>
       <TextInput 
         style={styles.input}
         keyboardType="email-address"
